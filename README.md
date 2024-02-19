@@ -16,7 +16,7 @@ Tela de perfil: contem uma frase de bem vindo e a outra o usuario que está loga
 
 Drawer: contem tela home, registrar, perfil e sair da conta.
 
-Aplicativo com o back-end feito em typescript e prisma para o banco de dados.
+Aplicativo com o back-end feito em typescript e prisma para o banco de dados disponibilizado atráves do curso github do back-end. (https://github.com/devfraga/backend-financas)
 
 libs utilizadas: async storage, drawer, native stack, calendars, vector icons, reanimated, axios e date-fns.
 
